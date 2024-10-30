@@ -23,7 +23,7 @@
 # 第一期目标
 
 * 主机：手上的 iqoo 12 手机，只有 usb 2.0 接口，没法直接 typec 连接显示器。
-* 便携屏：xequip 的 7 寸便携屏。1920x1080分辨率，120hz刷新率。rog ally 的同款屏幕。150克重。
+* 便携屏：xequip 的 7 寸便携屏。1920x1080分辨率，120hz刷新率。rog ally 的同款屏幕。150克重。由闲鱼购入。
 * 拉伸手柄：bsp d10 蓝牙手柄。
 
 第一期目标就是拉伸手柄夹便携屏，然后通过一根 typec 线连接到放口袋里的 iqoo 12 手机，实现 7 寸大屏玩模拟器游戏的体验。这就需要解决 3 个核心问题
@@ -36,7 +36,7 @@
 
 ## DisplayLink 的可行性验证
 
-* [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，线接好之后能看到镜像的画面。
+* [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，需要安装 [DisplayLink Presenter](https://www.synaptics.com/cn/products/displaylink-graphics/downloads/android) 这个 android app，然后线接好之后能看到镜像的画面。
 * [x] DisplayLink 是否能够双屏异显。可以，用 VLC 播放器验证了。
 * [ ] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟
 * [ ] 是否 VirtualDisplay 可以开启 android 的 desktop mode。
