@@ -36,13 +36,17 @@
 
 ## DisplayLink 的可行性验证
 
-需要验证 DisplayLink 的延迟，对比 scrcpy 延迟。是否 VirtualDisplay 可以开启 android 的 desktop mode。
+* [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，线接好之后能看到镜像的画面。
+* [x] DisplayLink 是否能够双屏异显。可以，用 VLC 播放器验证了。
+* [ ] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟
+* [ ] 是否 VirtualDisplay 可以开启 android 的 desktop mode。
 
 ## Presentation API 的可行性验证
 
-能否拿到 DisplayLink Presenter 创建的 VirtualDisplay。用 Presentation 能不能把 winlator 的游戏界面按 16:9 的比例投到便携屏上。
+* [ ] 能否拿到 DisplayLink Presenter 创建的 VirtualDisplay
+* [ ] 用 Presentation 能不能把 winlator 的游戏界面按 16:9 的比例投到便携屏上。
 
 ## 一线通的可行性验证
 
-[x] OTG 线能否同时投屏和充电
-[ ] 纳米胶是否可以良好固定，方便拆卸。
+* [x] OTG 线能否同时投屏和充电。已经验证，淘宝关键词：OTG边冲边连U盘移动硬盘转接线。一个typec的公口接 iqoo 12 手机，两个母口（typec或者typea），一个母口是 OTG 口，连接到 DisplayLink 设备，一个母口是供电口。
+* [ ] 纳米胶是否可以良好固定，方便拆卸。
