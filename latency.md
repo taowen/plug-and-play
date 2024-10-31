@@ -8,4 +8,10 @@
 
 https://github.com/user-attachments/assets/f72f29b5-af10-459c-bf14-e52d11d458be
 
-上面是 iqoo12 通过 scrcpy 投屏到 windows 笔记本的延迟情况，全程投屏都是快于本地屏幕的
+上面是 iqoo12 通过 scrcpy 投屏到 windows 笔记本的延迟情况，全程投屏都是快于本地屏幕的。scrcpy 原理是 adb 调试。
+
+![046dd866a50afdd3bc2081514d5a1b3](https://github.com/user-attachments/assets/d0d5b882-825e-422f-b199-be92fa841d71)
+
+iqoo 12 通过 mirascreen 投屏失败，上面是用 zhangwanmini 通过 mirascreen 投屏到投影仪的延迟情况。mirascreen 的原理是一个单片机在运行 adb 调试。居然也是快于本地屏幕的。
+
+
