@@ -14,4 +14,13 @@ https://github.com/user-attachments/assets/f72f29b5-af10-459c-bf14-e52d11d458be
 
 iqoo 12 通过 mirascreen 投屏失败，上面是用 zhangwanmini 通过 mirascreen 投屏到投影仪的延迟情况。mirascreen 的原理是一个单片机在运行 adb 调试。居然也是快于本地屏幕的。
 
+![4a4cd428420f764a39256607b0574c0](https://github.com/user-attachments/assets/6bd98bdc-b577-40a1-b0ff-6762ae575c70)
+
+https://github.com/user-attachments/assets/c5416ba5-f4c2-464d-a6e8-e749ec654a5c
+
+上面是 windows 通过 sunshine/moonlight 串流到 iqoo12 然后再通过 DisplayLink 投屏的显示器的延迟情况，这是 5g wifi 加上 DisplayLink 的双重 debuff，然而还是快于本地屏幕
+
+
+
+
 
