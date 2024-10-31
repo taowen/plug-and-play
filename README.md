@@ -2,8 +2,6 @@
 
 给手机加个大屏幕，打造一台即插即玩的游戏掌机。不仅仅是手机，可用一根 usb 线接任意的设备当游戏主机。用到的淘宝买的配件，组装方案以及软件代码均会在这里持续更新，敬请期待。用小红书扫码加入群聊
 
-![0c9536c33812b0cff6d10ca764ce648]()
-
 <img src="https://github.com/user-attachments/assets/cd8d57f7-d7e9-4e3b-b51d-7fb73190d68c" alt="drawing" width="200"/>
 
 # 目标
