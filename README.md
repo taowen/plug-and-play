@@ -1,6 +1,6 @@
 # plug-and-play
 
-即插即玩的游戏掌机，可用一根 usb 线接任意的设备当游戏主机。所有方案和代码均会开源，MIT协议。
+给手机加个大屏幕，打造一台即插即玩的游戏掌机。不仅仅是手机，可用一根 usb 线接任意的设备当游戏主机。所有方案和代码均会开源，MIT协议。
 
 # 目标
 
@@ -39,7 +39,7 @@
 
 * [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，需要安装 [DisplayLink Presenter](https://www.synaptics.com/cn/products/displaylink-graphics/downloads/android) 这个 android app，然后线接好之后能看到镜像的画面。
 * [x] DisplayLink 是否能够双屏异显。可以，用 VLC 播放器验证了。
-* [ ] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟
+* [x] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟。验证了，延迟很好 [latency.md]
 * [ ] 是否 VirtualDisplay 可以开启 android 的 desktop mode。
 
 ## Presentation API 的可行性验证
