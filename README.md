@@ -39,7 +39,7 @@
 
 * [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，需要安装 [DisplayLink Presenter](https://www.synaptics.com/cn/products/displaylink-graphics/downloads/android) 这个 android app，然后线接好之后能看到镜像的画面。
 * [x] DisplayLink 是否能够双屏异显。可以，用 VLC 播放器验证了。
-* [x] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟。验证了，延迟很好 [latency.md]
+* [x] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟。验证了，延迟很好 [latency.md](latency.md)
 * [ ] 是否 VirtualDisplay 可以开启 android 的 desktop mode。
 
 ## Presentation API 的可行性验证
