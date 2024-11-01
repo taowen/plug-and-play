@@ -42,11 +42,11 @@
 * [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，需要安装 [DisplayLink Presenter](https://www.synaptics.com/cn/products/displaylink-graphics/downloads/android) 这个 android app，然后线接好之后能看到镜像的画面。
 * [x] DisplayLink 是否能够双屏异显。可以，用 VLC 播放器验证了。
 * [x] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟。验证了，延迟很好 [latency.md](latency.md)
-* [ ] 是否 VirtualDisplay 可以开启 android 的 desktop mode。
+* [x] 是否 VirtualDisplay 可以开启 android 的 desktop mode。不可以， android 因为安全原因特别限制了。即便是能在第二个Display上启动 activity，各种修改版本的 android 系统的行为差异也特别大，不具有实用性。
 
 ## Presentation API 的可行性验证
 
-* [ ] 能否拿到 DisplayLink Presenter 创建的 VirtualDisplay
+* [x] 能否拿到 DisplayLink Presenter 创建的 VirtualDisplay。可以拿到这个 display。
 * [ ] 用 Presentation 能不能把 winlator 的游戏界面按 16:9 的比例投到便携屏上。
 
 ## 一线通的可行性验证
