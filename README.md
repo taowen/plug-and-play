@@ -47,7 +47,7 @@
 ## Presentation API 的可行性验证
 
 * [x] 能否拿到 DisplayLink Presenter 创建的 VirtualDisplay。可以拿到这个 display。
-* [ ] 给 presenter apk 注入一行 log
+* [x] 给 presenter apk 注入一行 log
 * [ ] 尝试 4k 分辨率
 * [ ] 从 image listener 拿到 image plane buffer，并解码成 png 写一份到磁盘上
 * [ ] 修改 image plane buffer
