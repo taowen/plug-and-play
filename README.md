@@ -48,6 +48,7 @@
 
 * [x] 能否拿到 DisplayLink Presenter 创建的 VirtualDisplay。可以拿到这个 display。
 * [ ] 给 presenter apk 注入一行 log
+* [ ] 尝试 4k 分辨率
 * [ ] 从 image listener 拿到 image plane buffer，并解码成 png 写一份到磁盘上
 * [ ] 修改 image plane buffer
 * [ ] 注册 n x 1080 的分辨率，然后裁切 image plane buffer
