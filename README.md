@@ -38,14 +38,15 @@
 
 对这三个方案目前的技术选型是用 DisplayLink 来解决 usb 2.0 的投屏问题。用 android 的 Presentation API 写一个 app 来解决显示比例的问题。用一个扩展坞来把手柄和屏幕连接到一起。最后一根 typec 线把扩展坞和手机与电池连接。
 
-## DisplayLink 的可行性验证
+## 用 USB 2.0 接口来有线投屏
 
 * [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，需要安装 [DisplayLink Presenter](https://www.synaptics.com/cn/products/displaylink-graphics/downloads/android) 这个 android app，然后线接好之后能看到镜像的画面。
 * [x] DisplayLink 是否能够双屏异显。可以，用 VLC 播放器验证了。
 * [x] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟。验证了，延迟很好 [latency.md](latency.md)
 * [x] 是否 VirtualDisplay 可以开启 android 的 desktop mode。不可以， android 因为安全原因特别限制了。即便是能在第二个Display上启动 activity，各种修改版本的 android 系统的行为差异也特别大，不具有实用性。
+* [ ] 对比 Silicon Motion 的 InstantView 方案
 
-## Presentation API 的可行性验证
+## 去掉投屏的黑边
 
 * [x] 能否拿到 DisplayLink Presenter 创建的 VirtualDisplay。可以拿到这个 display。
 * [x] 给 presenter apk 注入一行 log
@@ -54,7 +55,7 @@
 * [ ] 修改 image plane buffer
 * [ ] 注册 n x 1080 的分辨率，然后裁切 image plane buffer
 
-## 一线通的可行性验证
+## 边用边充
 
 * [x] OTG 线能否同时投屏和充电。已经验证，淘宝关键词：OTG边冲边连U盘移动硬盘转接线。一个typec的公口接 iqoo 12 手机，两个母口（typec或者typea），一个母口是 OTG 口，连接到 DisplayLink 设备，一个母口是供电口。
 * [ ] 纳米胶是否可以良好固定，方便拆卸。
