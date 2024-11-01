@@ -1,6 +1,6 @@
 # DisplayLink 对比 scrcpy 延迟实测
 
-(另外一份国外博客上的测试)[https://rkblog.dev/posts/tech-gadgets/generating-video-display-outputs-usb-displaylink-docking-stations-and-dongles/]
+https://rkblog.dev/posts/tech-gadgets/generating-video-display-outputs-usb-displaylink-docking-stations-and-dongles/
 
 ![11f7981db33cc985c06e097d9ef2198](https://github.com/user-attachments/assets/acc05163-614d-42b8-a117-e9f98ed43888)
 
