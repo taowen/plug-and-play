@@ -15,7 +15,7 @@
 | 海备思 DPL01 | DisplayLink DL-6950 无需供电 | DisplayLink Presenter | 27ms, 27ms |
 | DELL DA100 | DisplayLink DL-3xxx 需要供电 | DisplayLink Presenter | 36ms, 36ms |
 
-结论：海备思的 DPL01 延迟最低，所有的 DisplayLink 都比 SiliconMotion 要低。
+结论：海备思的 DPL01 延迟最低，所有的 DisplayLink 都比 SiliconMotion 要低。不要看淘宝上没写支持 android，只要你看准是 DisplayLink 芯片，买来都能用。Wavlink 家也有 DisplayLink 芯片方案的。综合比个价格去买就行，选择很多，淘宝或者闲鱼总有便宜的。DELL DA100 价格被炒到天上去了，不推荐。
 
 ## Silion Motion
 
