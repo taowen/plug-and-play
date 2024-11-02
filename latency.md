@@ -10,7 +10,10 @@
 
 | 品牌型号 | 芯片 | Android端 | 两次测量值 |
 | --- | --- | --- | --- | 
-| Wavlink WL-UG7601HC | SiliconMotion SM768 | SMI Instant View | 72ms, 83ms |
+| Wavlink WL-UG7601HC | SiliconMotion SM768 无需供电 | SMI Instant View | 72ms, 83ms |
+| ORICO DPL-10 | DisplayLink 具体型号不详 无需供电 | DisplayLink Presenter | 45ms, 36ms |
+| HAGiBis DPL01 | DisplayLink DL-6950 无需供电 | DisplayLink Presenter | 27ms, 27ms |
+
 
 
 ## Silion Motion
