@@ -10,7 +10,8 @@
 
 | 品牌型号 | 芯片 | Android端 | 两次测量值 |
 | --- | --- | --- | --- | 
-| Wavlink WL-UG7601HC | SiliconMotion | SMI Instant View | xxx |
+| Wavlink WL-UG7601HC | SiliconMotion SM768 | SMI Instant View | 72ms, 83ms |
+
 
 ## Silion Motion
 
