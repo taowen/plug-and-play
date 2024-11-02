@@ -4,9 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/cd8d57f7-d7e9-4e3b-b51d-7fb73190d68c" alt="drawing" width="200"/>
 
-# 目标
-
-为什么要搞这个项目？
+# 为什么要搞这个项目？
 
 * 无论是 win 掌机还是 android 掌机的 cpu 还在快速更新，买来到手很快就过时了。但是手柄夹屏幕可以用很久都不过时。
 * 游戏掌机除了手柄和屏幕，还需要堆足够的散热和电池来满足功耗的要求。这导致了重量很难压下去。
