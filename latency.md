@@ -19,4 +19,3 @@ https://rkblog.dev/posts/tech-gadgets/generating-video-display-outputs-usb-displ
 
 ![3523fd470f35d4b8be48e1efeaf75d6](https://github.com/user-attachments/assets/aa042335-570a-4b8d-a2f6-ea41e7c39e95)
 
-![3523fd470f35d4b8be48e1efeaf75d6](https://github.com/user-attachments/assets/5e3904fe-2bf4-40d9-938e-34dea2199b66)
