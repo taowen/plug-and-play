@@ -61,7 +61,7 @@
 * [ ] 修改 image plane buffer
 * [ ] 注册 n x 1080 的分辨率，然后裁切 image plane buffer
 
-## 边用边充
+## 边用边充，一线通
 
 * [x] OTG 线能否同时投屏和充电。已经验证，淘宝关键词：OTG边冲边连U盘移动硬盘转接线。一个typec的公口接 iqoo 12 手机，两个母口（typec或者typea），一个母口是 OTG 口，连接到 DisplayLink 设备，一个母口是供电口。
 * [ ] 纳米胶是否可以良好固定，方便拆卸。
