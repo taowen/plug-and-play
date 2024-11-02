@@ -21,3 +21,9 @@ https://rkblog.dev/posts/tech-gadgets/generating-video-display-outputs-usb-displ
 
 ![f508579e4a1cb2799acf73925cbabfc](https://github.com/user-attachments/assets/ff50cb0b-ba77-47b6-a4d4-6c41d7565af4)
 
+# DELL DA100
+
+![37c984c8bc7b58180fab4455d368499](https://github.com/user-attachments/assets/9e0e991d-db0b-4d17-8a9b-d0070ab92ddb)
+
+![f2845a01731f2e3a1645651673817f6](https://github.com/user-attachments/assets/417037e2-c44f-4739-b89e-93dbc76c2400)
+
