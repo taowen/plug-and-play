@@ -13,7 +13,7 @@
 | Wavlink WL-UG7601HC | SiliconMotion SM768 无需供电 | SMI Instant View | 72ms, 83ms |
 | ORICO DPL-10 | DisplayLink 型号不详 无需供电 | DisplayLink Presenter | 45ms, 36ms |
 | 海备思 DPL01 | DisplayLink DL-6950 无需供电 | DisplayLink Presenter | 27ms, 27ms |
-| DELL DA100 | DisplayLink DL-3xxx 需要供电 | 36ms, 36ms |
+| DELL DA100 | DisplayLink DL-3xxx 需要供电 | DisplayLink Presenter | 36ms, 36ms |
 
 结论：海备思的 DPL01 延迟最低，所有的 DisplayLink 都比 SiliconMotion 要低。
 
