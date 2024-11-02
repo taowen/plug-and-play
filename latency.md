@@ -17,5 +17,7 @@ https://rkblog.dev/posts/tech-gadgets/generating-video-display-outputs-usb-displ
 
 # 海备思
 
-![3523fd470f35d4b8be48e1efeaf75d6](https://github.com/user-attachments/assets/aa042335-570a-4b8d-a2f6-ea41e7c39e95)
+![58bef6b5803f0a92c15214e39a4e65e](https://github.com/user-attachments/assets/e5d0eb45-c030-405e-b142-ab60c742293c)
+
+![f508579e4a1cb2799acf73925cbabfc](https://github.com/user-attachments/assets/ff50cb0b-ba77-47b6-a4d4-6c41d7565af4)
 
