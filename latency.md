@@ -1,6 +1,12 @@
 # DisplayLink 延迟实测
 
-https://rkblog.dev/posts/tech-gadgets/generating-video-display-outputs-usb-displaylink-docking-stations-and-dongles/
+另外一份延迟测试 https://rkblog.dev/posts/tech-gadgets/generating-video-display-outputs-usb-displaylink-docking-stations-and-dongles/
+
+测试使用的设备
+
+* 主机：iqoo 12，usb 2.0 接口，内屏 144hz 高刷新
+* 显示器：DELL，60hz 刷新
+* 分辨率：1920 x 1080
 
 | 品牌型号 | 芯片 | 两次测量值 |
 | --- | --- | --- | 
