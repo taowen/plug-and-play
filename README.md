@@ -42,8 +42,6 @@
 * 显示比例的问题：如果是手机 2400x1080 投屏到 1920x1080 的便携屏上会有很大的黑边，无法占满整个 7 寸的屏幕。而且 iqoo 把 adb shell wm resize 也给阉割了，改分辨率只是拉伸的效果。
 * 一线通的问题：手柄如果要单独通过蓝牙去接手机，那么换设备就需要重新配对。而且蓝牙手柄还要独立充电。如何能够做到一线通，把充电，连显示器，连手柄这三件事情都搞定。
 
-对这三个方案目前的技术选型是用 DisplayLink 来解决 usb 2.0 的投屏问题。用 android 的 Presentation API 写一个 app 来解决显示比例的问题。用一个扩展坞来把手柄和屏幕连接到一起。最后一根 typec 线把扩展坞和手机与电池连接。
-
 ## 用 USB 2.0 接口来有线投屏
 
 * [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，需要安装 [DisplayLink Presenter](https://www.synaptics.com/cn/products/displaylink-graphics/downloads/android) 这个 android app，然后线接好之后能看到镜像的画面。
