@@ -8,9 +8,9 @@
 * 显示器：DELL，60hz 刷新
 * 分辨率：1920 x 1080
 
-| 品牌型号 | 芯片 | 两次测量值 |
-| --- | --- | --- | 
-| Wavlink | SiliconMotion | xxx |
+| 品牌型号 | 芯片 | Android端 | 两次测量值 |
+| --- | --- | --- | --- | 
+| Wavlink WL-UG7601HC | SiliconMotion | SMI Instant View | xxx |
 
 ## Silion Motion
 
