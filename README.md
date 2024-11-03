@@ -54,6 +54,8 @@ https://www.bilibili.com/video/BV1SbS2YVEkV/ 效果见视频
 | 图片 | 名称 | 价格 |
 | --- | --- | --- |
 | <img src="https://github.com/user-attachments/assets/2720b5f1-850e-4354-b057-7a943126a68e" alt="drawing" width="200"/>| ORICO 10合1 DisplayLink 扩展坞 | 闲鱼 211 | 
+| ![fb91967a0116e06925ae848b8c39d74](https://github.com/user-attachments/assets/5782a869-481e-4671-af53-7252a2ede8ef) | ULT-unite hdmi转typec | 淘宝 118 |
+
 
 
 # 第二期目标：在 iqoo 12 手机上运行 x86 ubuntu 做为开发机
