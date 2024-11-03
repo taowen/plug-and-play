@@ -62,8 +62,8 @@ USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元。特别�
 
 | 图片 | 名称 | 价格 |
 | --- | --- | --- |
-| | equip 7寸 120hz 版便携屏 | 闲鱼 999 |
-| | joycon 滑轨 | |
+| <img src="https://github.com/user-attachments/assets/6b1960c0-d475-4c02-b6b0-7cd7d903eaea" alt="drawing" width="200"/> | equip 7寸 ROG Ally 同款屏 | 闲鱼 999 |
+| | 5孔螺丝，joycon 滑轨 | |
 | | 良值机甲分体式手柄 | |
 | | 魔派joycon二合一电脑接收器 | |
 
