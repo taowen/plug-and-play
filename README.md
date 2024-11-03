@@ -49,14 +49,20 @@ https://www.bilibili.com/video/BV1SbS2YVEkV/ 效果见视频
 * ipad 改的便携屏分辨率会有拉伸
 * equip和ipad两款便携屏的触屏在横屏下都是错的
 
-配件清单
+USB2.0转USB3.0拓展坞，配件清单
 
 | 图片 | 名称 | 价格 |
 | --- | --- | --- |
 | <img src="https://github.com/user-attachments/assets/2720b5f1-850e-4354-b057-7a943126a68e" alt="drawing" width="200"/>| ORICO 10合1 DisplayLink 扩展坞 | 闲鱼 211 | 
 | <img src="https://github.com/user-attachments/assets/5782a869-481e-4671-af53-7252a2ede8ef" alt="drawing" width="200"/> | ULT-unite hdmi转typec | 淘宝 118 |
+| <img src="https://github.com/user-attachments/assets/bf026c08-a4d0-4d9b-8a75-5853b0840638" alt="drawing" width="200"/> | OTG 边充边连U盘移动硬盘转接线 | 淘宝 31.9 |
 
 
+便携屏掌机，配件清单
+
+| 图片 | 名称 | 价格 |
+| --- | --- | --- |
+| | equip 7寸 120hz 版便携屏 | 闲鱼 999 |
 
 # 第二期目标：在 iqoo 12 手机上运行 x86 ubuntu 做为开发机
 
