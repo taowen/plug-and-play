@@ -49,6 +49,13 @@ https://www.bilibili.com/video/BV1SbS2YVEkV/ 效果见视频
 * ipad 改的便携屏分辨率会有拉伸
 * equip和ipad两款便携屏的触屏在横屏下都是错的
 
+配件清单
+
+| 图片 | 名称 | 价格 |
+| --- | --- | --- |
+| ![image](https://github.com/user-attachments/assets/2720b5f1-850e-4354-b057-7a943126a68e) | ORICO 10合1 DisplayLink 扩展坞 | 闲鱼 211 | 
+
+
 # 第二期目标：在 iqoo 12 手机上运行 x86 ubuntu 做为开发机
 
 以 headless 方式运行 termux-x11，投屏到一个 moonlight 客户端上展示并操控
