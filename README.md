@@ -49,7 +49,7 @@ https://www.bilibili.com/video/BV1SbS2YVEkV/ 效果见视频
 * ipad 改的便携屏分辨率会有拉伸
 * equip和ipad两款便携屏的触屏在横屏下都是错的
 
-USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元
+USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元。特别注意 ULT-unite hdmi转typec 是关键组件，试过了3款其他的拓展坞均无法适配。
 
 | 图片 | 名称 | 价格 |
 | --- | --- | --- |
