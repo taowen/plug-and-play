@@ -34,34 +34,12 @@
 * 便携屏：xequip 用 rog ally 的同款屏幕造的 7 寸便携屏。1920x1080分辨率，120hz刷新率。150克重。由闲鱼购入。
 * 拉伸手柄：bsp d10 蓝牙手柄。
 
-第一期目标就是拉伸手柄夹便携屏，然后通过一根 typec 线连接到放口袋里的 iqoo 12 手机，实现 7 寸大屏玩模拟器游戏的体验。这就需要解决 3 个核心问题
+第一期目标就是拉伸手柄夹便携屏，然后通过一根 typec 线连接到放口袋里的 iqoo 12 手机，实现 7 寸大屏玩模拟器游戏的体验。[这就需要解决 3 个核心问题](usb2-to-usb3-display.md)
 
 * usb 2.0 怎么投屏显示的问题：不仅仅是 iqoo，很多其他品牌，甚至旗舰机型都阉割 usb 3.0。甚至 xiaomi 14 给你 usb 3.0 也把 desktop mode 给阉割掉了，只有一个屏幕镜像的模式。所以 usb2 的设备也能用非常重要。
 * 显示比例的问题：如果是手机 2400x1080 投屏到 1920x1080 的便携屏上会有很大的黑边，无法占满整个 7 寸的屏幕。而且 iqoo 把 adb shell wm resize 也给阉割了，改分辨率只是拉伸的效果。
 * 一线通的问题：手柄如果要单独通过蓝牙去接手机，那么换设备就需要重新配对。而且蓝牙手柄还要独立充电。如何能够做到一线通，把充电，连显示器，连手柄这三件事情都搞定。
 
-## 用 USB 2.0 接口来有线投屏
-
-* [x] Dell DA100 这款 DisplayLink 设备是否能实现镜像投屏。可以，需要安装 [DisplayLink Presenter](https://www.synaptics.com/cn/products/displaylink-graphics/downloads/android) 这个 android app，然后线接好之后能看到镜像的画面。
-* [x] DisplayLink 是否能够双屏异显。可以，用 VLC 播放器验证了。
-* [x] 需要验证 DisplayLink 的延迟，对比 scrcpy 延迟。验证了，延迟很好 [latency.md](latency.md)
-* [x] 是否 VirtualDisplay 可以开启 android 的 desktop mode。不可以， android 因为安全原因特别限制了。即便是能在第二个Display上启动 activity，各种修改版本的 android 系统的行为差异也特别大，不具有实用性。
-* [x] 对比 Silicon Motion 的 InstantView 方案：非常拉跨。
-
-## 去掉投屏的黑边
-
-* [x] 能否拿到 DisplayLink Presenter 创建的 VirtualDisplay。可以拿到这个 display。
-* [x] 给 presenter apk 注入一行 log
-* [x] 尝试 4k 分辨率：写死了，上不到 4k
-* [x] 自动化编译注入的 hook
-* [x] 从 image listener 拿到 image plane buffer，并解码成 png 写一份到磁盘上
-* [x] 修改 image plane buffer
-* [x] 注册 n x 1080 的分辨率，然后裁切 image plane buffer
-
-## 边用边充，一线通
-
-* [x] OTG 线能否同时投屏和充电。已经验证，淘宝关键词：OTG边冲边连U盘移动硬盘转接线。一个typec的公口接 iqoo 12 手机，两个母口（typec或者typea），一个母口是 OTG 口，连接到 DisplayLink 设备，一个母口是供电口。
-* [x] 纳米胶是否可以良好固定，方便拆卸。
 
 ## 一期目标达成
 
