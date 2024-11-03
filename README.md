@@ -53,12 +53,24 @@
 * [x] 能否拿到 DisplayLink Presenter 创建的 VirtualDisplay。可以拿到这个 display。
 * [x] 给 presenter apk 注入一行 log
 * [x] 尝试 4k 分辨率：写死了，上不到 4k
-* [ ] 自动化编译注入的 hook
-* [ ] 从 image listener 拿到 image plane buffer，并解码成 png 写一份到磁盘上
-* [ ] 修改 image plane buffer
-* [ ] 注册 n x 1080 的分辨率，然后裁切 image plane buffer
+* [x] 自动化编译注入的 hook
+* [x] 从 image listener 拿到 image plane buffer，并解码成 png 写一份到磁盘上
+* [x] 修改 image plane buffer
+* [x] 注册 n x 1080 的分辨率，然后裁切 image plane buffer
 
 ## 边用边充，一线通
 
 * [x] OTG 线能否同时投屏和充电。已经验证，淘宝关键词：OTG边冲边连U盘移动硬盘转接线。一个typec的公口接 iqoo 12 手机，两个母口（typec或者typea），一个母口是 OTG 口，连接到 DisplayLink 设备，一个母口是供电口。
-* [ ] 纳米胶是否可以良好固定，方便拆卸。
+* [x] 纳米胶是否可以良好固定，方便拆卸。
+
+## 一期目标达成
+
+https://www.bilibili.com/video/BV1SbS2YVEkV/ 效果见视频
+
+* 发布源代码和原理
+* ipad 改的便携屏分辨率会有拉伸
+* equip和ipad两款便携屏的触屏在横屏下都是错的
+
+# 第二期目标：在 iqoo 12 手机上运行 x86 ubuntu 做为开发机
+
+以 headless 方式运行 termux-x11，投屏到一个 moonlight 客户端上展示并操控
