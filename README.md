@@ -58,14 +58,14 @@ USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元。特别�
 | <img src="https://github.com/user-attachments/assets/bf026c08-a4d0-4d9b-8a75-5853b0840638" width="200"/> | OTG 边充边连U盘移动硬盘转接线 | 淘宝 31.9 |
 | <img src="https://github.com/user-attachments/assets/64c73948-a00a-4ca7-b260-9e34e4b5808b" width="200"/> | 得力纳米双面胶 | 淘宝 37.2 |
 
-可多场景复用得便携屏掌机，配件清单
+可多场景复用得便携屏掌机，配件清单，合计 1238。可接手机，电脑。
 
 | 图片 | 名称 | 价格 |
 | --- | --- | --- |
 | <img src="https://github.com/user-attachments/assets/6b1960c0-d475-4c02-b6b0-7cd7d903eaea" width="200"/> | equip 7寸 ROG Ally 同款屏 | 闲鱼 999 |
 | <img src="https://github.com/user-attachments/assets/b2512a8d-42ba-4a5f-810f-f3a885cf27d3" width="200"/> | 5孔螺丝，joycon 滑轨 | 闲鱼 20 |
 | <img src="https://github.com/user-attachments/assets/4f27f4a3-669c-4b2f-bd9a-c5a01ff70ad6" width="200"/> | 良值机甲分体式手柄 | 闲鱼 180 |
-| | 魔派joycon二合一电脑接收器 | |
+| <img src="920fea6b-dab7-44ca-b931-7b575f66db50" width="200"/> | 魔派joycon二合一电脑接收器 | 拼多多 39 |
 
 # 第二期目标：在 iqoo 12 手机上运行 x86 ubuntu 做为开发机
 
