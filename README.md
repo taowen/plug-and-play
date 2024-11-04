@@ -65,7 +65,7 @@ USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元。特别�
 | <img src="https://github.com/user-attachments/assets/6b1960c0-d475-4c02-b6b0-7cd7d903eaea" width="200"/> | equip 7寸 ROG Ally 同款屏 | 闲鱼 999 |
 | <img src="https://github.com/user-attachments/assets/b2512a8d-42ba-4a5f-810f-f3a885cf27d3" width="200"/> | 5孔螺丝，joycon 滑轨 | 闲鱼 20 |
 | <img src="https://github.com/user-attachments/assets/4f27f4a3-669c-4b2f-bd9a-c5a01ff70ad6" width="200"/> | 良值机甲分体式手柄 | 闲鱼 180 |
-| <img src="920fea6b-dab7-44ca-b931-7b575f66db50" width="200"/> | 魔派joycon二合一电脑接收器 | 拼多多 39 |
+| <img src="https://github.com/user-attachments/assets/920fea6b-dab7-44ca-b931-7b575f66db50" width="200"/> | 魔派joycon二合一电脑接收器 | 拼多多 39 |
 
 # 第二期目标：在 iqoo 12 手机上运行 x86 ubuntu 做为开发机
 
