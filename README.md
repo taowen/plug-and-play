@@ -2,7 +2,7 @@
 
 给手机加个大屏幕，打造一台即插即玩的游戏掌机。不仅仅是手机，可用一根 usb 线接任意的设备当游戏主机。用到的淘宝买的配件，组装方案以及软件代码均会在这里持续更新，敬请期待。用小红书扫码加入群聊
 
-<img src="https://github.com/user-attachments/assets/cd8d57f7-d7e9-4e3b-b51d-7fb73190d68c" alt="drawing" width="200"/>
+<img src="https://github.com/user-attachments/assets/cd8d57f7-d7e9-4e3b-b51d-7fb73190d68c" width="200"/>
 
 # 为什么要搞这个项目？
 
@@ -53,18 +53,18 @@ USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元。特别�
 
 | 图片 | 名称 | 价格 |
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/2720b5f1-850e-4354-b057-7a943126a68e" alt="drawing" width="200"/>| ORICO 10合1 DisplayLink 扩展坞 | 闲鱼 211 | 
-| <img src="https://github.com/user-attachments/assets/5782a869-481e-4671-af53-7252a2ede8ef" alt="drawing" width="200"/> | ULT-unite hdmi转typec | 淘宝 118 |
-| <img src="https://github.com/user-attachments/assets/bf026c08-a4d0-4d9b-8a75-5853b0840638" alt="drawing" width="200"/> | OTG 边充边连U盘移动硬盘转接线 | 淘宝 31.9 |
-| <img src="https://github.com/user-attachments/assets/64c73948-a00a-4ca7-b260-9e34e4b5808b" alt="drawing" width="200"/> | 得力纳米双面胶 | 淘宝 37.2 |
+| <img src="https://github.com/user-attachments/assets/2720b5f1-850e-4354-b057-7a943126a68e" width="200"/>| ORICO 10合1 DisplayLink 扩展坞 | 闲鱼 211 | 
+| <img src="https://github.com/user-attachments/assets/5782a869-481e-4671-af53-7252a2ede8ef" width="200"/> | ULT-unite hdmi转typec | 淘宝 118 |
+| <img src="https://github.com/user-attachments/assets/bf026c08-a4d0-4d9b-8a75-5853b0840638" width="200"/> | OTG 边充边连U盘移动硬盘转接线 | 淘宝 31.9 |
+| <img src="https://github.com/user-attachments/assets/64c73948-a00a-4ca7-b260-9e34e4b5808b" width="200"/> | 得力纳米双面胶 | 淘宝 37.2 |
 
 可多场景复用得便携屏掌机，配件清单
 
 | 图片 | 名称 | 价格 |
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/6b1960c0-d475-4c02-b6b0-7cd7d903eaea" alt="drawing" width="200"/> | equip 7寸 ROG Ally 同款屏 | 闲鱼 999 |
-| | 5孔螺丝，joycon 滑轨 | |
-| | 良值机甲分体式手柄 | |
+| <img src="https://github.com/user-attachments/assets/6b1960c0-d475-4c02-b6b0-7cd7d903eaea" width="200"/> | equip 7寸 ROG Ally 同款屏 | 闲鱼 999 |
+| <img src="https://github.com/user-attachments/assets/b2512a8d-42ba-4a5f-810f-f3a885cf27d3" width="200"/> | 5孔螺丝，joycon 滑轨 | 闲鱼 20 |
+| <img src="https://github.com/user-attachments/assets/4f27f4a3-669c-4b2f-bd9a-c5a01ff70ad6" width="200"/> | 良值机甲分体式手柄 | 闲鱼 180 |
 | | 魔派joycon二合一电脑接收器 | |
 
 # 第二期目标：在 iqoo 12 手机上运行 x86 ubuntu 做为开发机
