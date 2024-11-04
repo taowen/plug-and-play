@@ -36,6 +36,12 @@
 
 ![f508579e4a1cb2799acf73925cbabfc](https://github.com/user-attachments/assets/ff50cb0b-ba77-47b6-a4d4-6c41d7565af4)
 
+# 海贝思，强开 2560 * 1440 分辨率
+
+![48b1724a701536ccf21e8716a65313e](https://github.com/user-attachments/assets/24919886-17e0-459e-b45e-242ee5c26444)
+
+所以 usb 2.0 上到 1080p 就行了，上 2k 分辨率延迟就高了。
+
 # DELL DA100
 
 ![37c984c8bc7b58180fab4455d368499](https://github.com/user-attachments/assets/9e0e991d-db0b-4d17-8a9b-d0070ab92ddb)
