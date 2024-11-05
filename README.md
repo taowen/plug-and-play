@@ -45,9 +45,10 @@
 
 https://www.bilibili.com/video/BV1SbS2YVEkV/ 效果见视频
 
-* 发布源代码和原理
+* 发布源代码
 * ipad 改的便携屏分辨率会有拉伸
 * equip和ipad两款便携屏的触屏在横屏下都是错的
+* 虽然和所有的displaylink都兼容，但是这款 hdmi to typec 转接之后就是没声音了
 
 USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元。特别注意 ULT-unite hdmi转typec 是关键组件，试过了3款其他的拓展坞均无法适配。
 
@@ -67,6 +68,12 @@ USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元。特别�
 | <img src="https://github.com/user-attachments/assets/4f27f4a3-669c-4b2f-bd9a-c5a01ff70ad6" width="200"/> | 良值机甲分体式手柄 | 闲鱼 180 |
 | <img src="https://github.com/user-attachments/assets/920fea6b-dab7-44ca-b931-7b575f66db50" width="200"/> | 魔派joycon二合一电脑接收器 | 拼多多 39 |
 
-# 第二期目标：在 iqoo 12 手机上运行 x86 ubuntu 做为开发机
+# 第二期目标：修复掌机的触控
 
-以 headless 方式运行 termux-x11，投屏到一个 moonlight 客户端上展示并操控
+用 usb otg 获得触摸屏的数据，然后用 accessibility service 进行回放
+
+[x] 获得触摸数据
+[ ] 获得点击数据
+[ ] accessibility service 回放
+[ ] 跟随内屏转向
+[ ] 自动检测黑边
