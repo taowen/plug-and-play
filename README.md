@@ -72,8 +72,8 @@ USB2.0转USB3.0视频输出拓展坞，配件清单，合计 398.1 元。特别�
 
 用 usb otg 获得触摸屏的数据，然后用 accessibility service 进行回放
 
-[x] 获得触摸数据
-[ ] 获得点击数据
-[ ] accessibility service 回放
-[ ] 跟随内屏转向
-[ ] 自动检测黑边
+* [x] 获得触摸数据
+* [ ] 获得点击数据
+* [ ] accessibility service 回放
+* [ ] 跟随内屏转向
+* [ ] 自动检测黑边
