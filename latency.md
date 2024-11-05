@@ -48,3 +48,8 @@
 
 ![f2845a01731f2e3a1645651673817f6](https://github.com/user-attachments/assets/417037e2-c44f-4739-b89e-93dbc76c2400)
 
+# Orico + Typec + 便携屏
+
+![44532fe1dea7e1ade1d4b960fcc9d27](https://github.com/user-attachments/assets/f23da3dc-63a0-43c7-aeaa-9d3e5cf10ab6)
+
+
